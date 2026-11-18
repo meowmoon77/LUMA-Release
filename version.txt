@@ -1,3 +1,2 @@
-0.8.6 NG
-https://github.com/meowmoon77/RakBotCustom-Release/raw/main/RakBotCustom.exe
-https://github.com/meowmoon77/RakBotCustom-Release/raw/main/RakLauncher.exe
+1.0.0
+https://github.com/meowmoon77/LUMA-Release/raw/main/LUMA.exe
